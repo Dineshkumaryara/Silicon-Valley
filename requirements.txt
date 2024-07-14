@@ -1,0 +1,5 @@
+pandas
+tensorflow
+kafka-python
+pyspark
+prometheus-client
